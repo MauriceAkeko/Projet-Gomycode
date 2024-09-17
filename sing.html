@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="fr">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet"  href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="C:\Users\fm005\OneDrive\Desktop\Gomycode\S.A\css\sing.css">
+        <title>INSCRIPTION</title>
+    </head>
+    
+    <body>
+    <form name="loginForm" onsubmit="return validateForm(event) "></form>
+        <div class="compte">
+            <div class="c">
+                <i class="fa fa-user-circle-o" aria-hidden="true" style="font-size: 70px;"></i>
+            </div>
+
+            <div class="c" style="top: 40px;">
+                <input type="text" placeholder="Entrez votre nom">
+            </div>
+
+            <div class="c" style="top: 50px;">
+                <input type="text" placeholder="Entrez votre prénom">
+            </div>
+
+            <div class="c" style="top: 65px;">
+                <input type="text" placeholder="exemple@gmail.com">
+            </div>
+
+            <div class="c1">
+                <div class="c2">
+                    <button id="B" type="submit">Envoyer</button>
+                </div>
+    
+                <div class="c2">
+                    <button id="B" type="menu"> <a href="C:\Users\fm005\OneDrive\Desktop\Gomycode\S.A\index.html">Accueil</a></button>
+                </div>
+
+            </div>
+        </div>
+    </form>
+
+
+
+
+    <script>
+        document.getElementById('B').addEventListener("click", function(e) {
+            alert('Information envoyée'); 
+            window.location.href = 'C:/Users/fm005/OneDrive/Desktop/Gomycode/S.A/index.html'; 
+        });
+    </script>
+    
+
+
+
+
+
+
+
+
+    </body>
+
+
+    
+    
+
+
+
+
+</html>

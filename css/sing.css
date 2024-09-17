@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+}
+
+body{
+    background-color: wheat;
+}
+
+.compte{
+    background-color:cornflowerblue;
+    border-radius: 30px;
+    border: 2px solid black;
+    width: 20%;
+    height: 260px;
+    position: relative;
+    margin: auto;
+    top: 200px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.c1{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin: auto;
+    width: 80%;
+    position: relative;
+    top:80px;
+    height: 80px;
+}
+
+.c{
+    position: relative;
+}
+
+
+
+@media(max-width:1200px){
+    .compte{
+        width: 50%;
+    }
+}
