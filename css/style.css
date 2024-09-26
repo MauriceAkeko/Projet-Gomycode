@@ -54,7 +54,7 @@ li{
     margin: auto;
     position: relative;
     top: 60px;
-    background-image: url("res/videoPr.jpg");
+    background-image: url("../res/videoPr.jpg");
     background-size: cover;
     background-repeat: round;
 }
@@ -111,13 +111,13 @@ li{
 }
 
 #p1{
-    background-image: url('res/chemises femmes et hommes/chemises femmes/h1.jpg');
+    background-image: url('../res/chemises femmes et hommes/chemises femmes/h1.jpg');
 }
 #p2{
-    background-image: url('res/chemises femmes et hommes/chemises femmes/h2.jpg');
+    background-image: url('../res/chemises femmes et hommes/chemises femmes/h2.jpg');
 }
 #p3{
-    background-image: url('res/chemises femmes et hommes/chemises femmes/h3.jpg');
+    background-image: url('../res/chemises femmes et hommes/chemises femmes/h3.jpg');
 }
 
 .scc3{
@@ -142,19 +142,19 @@ li{
 
 
 #pp1{
-    background-image: url('res/pantalons femmes et hommes/pantalons femmes/téléchargement (1).jpg');
+    background-image: url('../res/pantalons femmes et hommes/pantalons femmes/téléchargement (1).jpg');
 }
 
 #pp2{
-    background-image: url('res/colliers/L2.jpg');
+    background-image: url('../res/colliers/L2.jpg');
 }
 
 #pp3{
-    background-image: url('res/pantalons femmes et hommes/pantalons hommes/P1.jpg');
+    background-image: url('../res/pantalons femmes et hommes/pantalons hommes/P1.jpg');
 }
 
 #pp4{
-    background-image: url('res/colliers/L1.jpg');
+    background-image: url('../res/colliers/L1.jpg');
 }
 
 
@@ -191,35 +191,35 @@ li{
 }
 
 #P1{
-    background-image: url('res/sacs/01.jpg');
+    background-image: url('../res/sacs/01.jpg');
 }
 
 #P2{
-    background-image: url('res/montres/03.jpg');
+    background-image: url('../res/montres/03.jpg');
 }
 
 #P3{
-    background-image: url('res/montres/02.jpg');
+    background-image: url('../res/montres/02.jpg');
 }
 
 #P4{
-    background-image: url('res/sacs/02.jpg');
+    background-image: url('../res/sacs/02.jpg');
 }
 
 #P5{
-    background-image: url('res/chaussures femmes et hommes/chaussures femmes/c3.jpg');
+    background-image: url('../res/chaussures femmes et hommes/chaussures femmes/c3.jpg');
 }
 
 #P6{
-    background-image: url('res/sacs/03.jpg');
+    background-image: url('../res/sacs/03.jpg');
 }
 
 #P7{
-    background-image: url('res/sacs/04.jpg');
+    background-image: url('../res/sacs/04.jpg');
 }
 
 #P8{
-    background-image: url('res/chaussures femmes et hommes/chaussures femmes/c2.jpg');
+    background-image: url('../res/chaussures femmes et hommes/chaussures femmes/c2.jpg');
 }
 
 .sa{
@@ -239,7 +239,7 @@ li{
     margin: auto;
     background-size: cover;
     background-repeat: round;
-    background-image: url('res/De la qualité.jpg');
+    background-image: url('../res/De la qualité.jpg');
 }
 
 .sab{
